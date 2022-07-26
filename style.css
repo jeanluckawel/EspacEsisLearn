@@ -22,3 +22,7 @@
 .navbar a.right{
     float:right;
 }
+.navbar a:hover{
+    background: #ddd;
+    color: black;
+}

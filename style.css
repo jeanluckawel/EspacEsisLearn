@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    margin: 0;
     
 }
 .header{
@@ -7,9 +8,22 @@
     text-align: center;
     background-color: #1abc9c;
     color:white;
+    
 }
 .fakeing{
     background: rgb(161, 157, 157);
+    font-family: roboto light;
+    font-size: 20px;
+}
+h5{
+    font-size: 25px;
+    padding: 10px;
+    font-family: roboto;
+}
+p{
+    font-size: 20px;
+    padding: 10px;
+    font-family: roboto light; 
 }
 .header{
     font-size: 40px;
@@ -51,4 +65,9 @@
     padding: 20px;
     background: rgb(161, 157, 157);
     text-align: center;
+    font-family: roboto ; 
+}
+h2{
+    font-size: 25px;
+    font-family: roboto;
 }

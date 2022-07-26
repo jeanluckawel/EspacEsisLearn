@@ -1,11 +1,15 @@
 *{
     box-sizing: border-box;
+    
 }
 .header{
     padding: 80px;
     text-align: center;
     background-color: #1abc9c;
     color:white;
+}
+.fakeing{
+    background: rgb(161, 157, 157);
 }
 .header{
     font-size: 40px;
@@ -42,4 +46,9 @@
     flex: 70%;
     background-color: white;
     padding: 20px;
+}
+.footer{
+    padding: 20px;
+    background: rgb(161, 157, 157);
+    text-align: center;
 }
